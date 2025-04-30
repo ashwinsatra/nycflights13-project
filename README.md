@@ -25,8 +25,4 @@ To install them, run:
 
 ```r
 install.packages(c("nycflights13", "tidyverse", "lubridate", "dplyr", "ggplot2", "knitr", "rmarkdown"))
-
-
----
-
-You can now **copy and paste this entire block** into the `README.md` file on GitHub. Let me know if you want a version with images or charts embedded!
+```
