@@ -17,3 +17,12 @@ This project explores the `nycflights13` dataset using R and the tidyverse. The 
 
 ## Authors
 Red Squadron - Group 7 (UCR Business Analytics)
+
+##Project Structure
+nycflights13-project/
+├── Group7_FinalProject_RedSquadron_v002.Rmd  # Main R Markdown analysis
+├── README.md                                 # Project overview and instructions
+├── .gitignore                                # Git ignore rules
+├── data/                                     # Raw or processed datasets (if any)
+├── images/                                   # Plots and visualizations
+└── output/                                   # Rendered reports (HTML/PDF)
