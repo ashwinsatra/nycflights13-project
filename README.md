@@ -36,7 +36,9 @@ Click Knit to render the document to HTML or PDF.
 
 Ensure the required packages are installed (see above).
 
-##📊 Key Insights
+
+## 📊 Key Insights
+
 Peak Delays: Summer months (especially July) had the highest average delays.
 
 Airline Comparison: Some airlines consistently performed better than others in terms of punctuality.
@@ -45,7 +47,8 @@ Weather Correlation: Adverse weather conditions like wind and precipitation sign
 
 Time-of-Day Effect: Flights later in the day were more prone to delays due to cascading effects.
 
-##📌 Dataset Summary
+
+## 📌 Dataset Summary
 The nycflights13 R package includes the following datasets:
 
 flights: Over 336,000 flight records departing NYC in 2013
@@ -60,18 +63,25 @@ planes: Aircraft information
 
 https://cran.r-project.org/web/packages/nycflights13/nycflights13.pdf
 
-##👥 Authors
+## 👥 Authors
+
 Group 7 – Red Squadron
+
 Ashwin Satra
+
 Dushyant Vaishnaw
+
 Sunny Khade
+
 Houze Zhao
+
 UCR MSBA – Winter 2025
 
-##📄 License
+## 📄 License
+
 This project is licensed under the MIT License.
 
-##💡 Acknowledgements
+## 💡 Acknowledgements
 Hadley Wickham – nycflights13 package creator
 
 UC Riverside Business Analytics Program
