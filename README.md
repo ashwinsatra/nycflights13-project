@@ -58,7 +58,9 @@ Follow these steps to reproduce the analysis in RStudio:
 
     Choose Download ZIP and extract it, or run:
 
+```{r}
     git clone https://github.com/ashwinsatra/nycflights13-project.git
+```
 
 2. Open the Project in RStudio
    
@@ -66,7 +68,9 @@ Follow these steps to reproduce the analysis in RStudio:
 
     Open the file:
 
+```{r}
    Group7_FinalProject_RedSquadron_v002.Rmd
+```
 
 3. Install Required R Packages
    
@@ -75,6 +79,7 @@ Follow these steps to reproduce the analysis in RStudio:
    ```{r}
    install.packages(c("nycflights13", "tidyverse", "lubridate", "dplyr", "ggplot2", "knitr", "rmarkdown"))
    ```
+   
 4. Run the Code or Knit the Report
    
     Option 1: Click "Knit" to render the .Rmd file to HTML or PDF.
