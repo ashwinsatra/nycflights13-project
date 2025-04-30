@@ -73,6 +73,7 @@ We hypothesize that flight delays can be predicted using departure time (hour, d
 The primary dataset for this analysis is **`nycflights13`**. It contains detailed information on all flights departing from New York City airports in 2013.
 
 ```{r,collapse=T}
+install.packages(c("nycflights13", "tidyverse", "lubridate", "ggplot2", "dplyr", "knitr", "rmarkdown"))
 library(nycflights13)
 library(dplyr)
 library(ggplot2)
