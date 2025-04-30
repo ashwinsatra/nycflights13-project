@@ -7,15 +7,25 @@ An in-depth data analysis project using the `nycflights13` dataset in R. This pr
 ## 📁 Project Structure
 
 nycflights13-project/
+
 ├── Group7_FinalProject_RedSquadron_v002.Rmd   # Main R Markdown analysis file
+
 ├── README.md                                  # Project description and usage instructions
+
 ├── LICENSE                                    # MIT License for reuse
+
 ├── data/                                      # (Optional) Raw or processed datasets used in analysis
+
 │   └── sample_data.csv                        # Example: any custom data used
+
 ├── images/                                    # Visualizations and plots (e.g., .png, .jpg)
+
 │   └── delay_distribution_plot.png
+
 ├── output/                                    # Rendered reports (HTML, PDF, etc.)
+
 │   └── Group7_FinalProject_Report.html
+
 └── .gitignore                                 # Files and folders ignored by Git
 
 ---
