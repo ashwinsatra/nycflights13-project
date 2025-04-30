@@ -76,9 +76,9 @@ Follow these steps to reproduce the analysis in RStudio:
    
     Run the following command in the RStudio Console:
 
-   ```{r}
+```{r}
    install.packages(c("nycflights13", "tidyverse", "lubridate", "dplyr", "ggplot2", "knitr", "rmarkdown"))
-   ```
+```
    
 4. Run the Code or Knit the Report
    
