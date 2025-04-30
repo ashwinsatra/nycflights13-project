@@ -49,14 +49,43 @@ install.packages(c("nycflights13", "tidyverse", "lubridate", "dplyr", "ggplot2",
 ```
 
 ## 🚀 How to Run
-Clone this repository or download the .Rmd file.
 
-Open Group7_FinalProject_RedSquadron_v002.Rmd in RStudio.
+Follow these steps to reproduce the analysis in RStudio:
 
-Click Knit to render the document to HTML or PDF.
+1. Clone or Download the Repository
+   
+    Click the green "Code" button at the top of the repository.
 
-Ensure the required packages are installed (see above).
+    Choose Download ZIP and extract it, or run:
 
+    git clone https://github.com/ashwinsatra/nycflights13-project.git
+
+2. Open the Project in RStudio
+   
+    Launch RStudio.
+
+    Open the file:
+
+   Group7_FinalProject_RedSquadron_v002.Rmd
+
+3. Install Required R Packages
+   
+    Run the following command in the RStudio Console:
+
+   ```{r}
+   install.packages(c("nycflights13", "tidyverse", "lubridate", "dplyr", "ggplot2", "knitr", "rmarkdown"))
+   ```
+4. Run the Code or Knit the Report
+   
+    Option 1: Click "Knit" to render the .Rmd file to HTML or PDF.
+
+    Option 2: Use "Run" to execute each code chunk interactively.
+
+5. View the Output
+   
+    The rendered report (HTML or PDF) will be saved in the output/ folder if specified.
+
+    Visualizations will appear in the Plots pane and can be saved manually or via code into the images/ folder.
 
 ## 📊 Key Insights
 
